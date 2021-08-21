@@ -8,7 +8,6 @@
     "screenshotOnRunFailure": true,
     "screenshotsFolder": "cypress/screenshots",
     "scrollBehavior": "top",
-    "reporter":"mochaawesome",
     "retries": {
         "runMode": 1,
         "openMode": 3
