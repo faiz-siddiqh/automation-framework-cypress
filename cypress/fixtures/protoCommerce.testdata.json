@@ -1,0 +1,13 @@
+{
+  "name": "Raj",
+  "email": "hello@cypress.io",
+  "gender": "Female",
+  "password": "cypress.io",
+  "employmentStatus": "Student",
+  "successMessage": "Success! The Form has been submitted successfully!.",
+  "productsToBuy": [
+    "Blackberry",
+    "Samsung Note 8"
+  ],
+  "countryToBeDelivered":"India"
+}
