@@ -9,8 +9,8 @@
     "screenshotsFolder": "cypress/screenshots",
     "scrollBehavior": "top",
     "reporter":"mochaawesome",
-    "retries":{  
-        "runmode":2,
-        "openmode":2
-    }
+    "retries": {
+        "runMode": 1,
+        "openMode": 3
+      }
 }
