@@ -1,1 +1,1 @@
-# automation-framework-cypress
+# Automation-Framework-Cypress
