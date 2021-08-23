@@ -8,9 +8,9 @@
     "headmode": "npm run test_app -- --headed",
     "test_app_chrome":"npm run test_app -- --browser chrome --parallel",
     "test_app_dashboardwithrecord":"npm run test_app -- --record --key 0d0041f2-a371-403b-a0a4-b40d9b522168",
-    "test_app_dashboardwithrecord_report":"test_app_dashboard&record --reporter mochawesome",
-    "test_app_greenkart":"npm test_app -- --spec \"cypress/integration/1-greenkart_app/*\" ",
-    "test_app_protoCommerce":"npm test_app -- --spec \"cypress/integration/2-protoCommerce_app/*\" "
+    "test_app_dashboardwithrecord_report":"npm run test_app_dashboard&record --reporter mochawesome",
+    "test_app_greenkart":"npm run test_app -- --spec \"cypress/integration/1-greenkart_app/*\" ",
+    "test_app_protoCommerce":"npm run test_app -- --spec \"cypress/integration/2-protoCommerce_app/*\" "
   },
   "repository": {
     "type": "git",
