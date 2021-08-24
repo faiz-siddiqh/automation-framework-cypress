@@ -1,15 +1,15 @@
 {
-    "projectId": "p24cwo",
-    "env": {
-        "baseUrl": "https://rahulshettyacademy.com/"
-    },
-    "defaultCommandTimeout": 8000,
-    "pageLoadTimeout": 10000,
-    "screenshotOnRunFailure": true,
-    "screenshotsFolder": "cypress/screenshots",
-    "scrollBehavior": "top",
-    "retries": {
-        "runMode": 1,
-        "openMode": 3
-      }
+  "projectId": "p24cwo",
+  "env": {
+    "baseUrl": "https://rahulshettyacademy.com/"
+  },
+  "defaultCommandTimeout": 8000,
+  "pageLoadTimeout": 10000,
+  "screenshotOnRunFailure": true,
+  "screenshotsFolder": "cypress/screenshots",
+  "scrollBehavior": "top",
+  "retries": {
+    "runMode": 1,
+    "openMode": 3
+  }
 }

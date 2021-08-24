@@ -5,9 +5,6 @@
   "password": "cypress.io",
   "employmentStatus": "Student",
   "successMessage": "Success! The Form has been submitted successfully!.",
-  "productsToBuy": [
-    "Blackberry",
-    "Samsung Note 8"
-  ],
-  "countryToBeDelivered":"India"
+  "productsToBuy": ["Blackberry", "Samsung Note 8"],
+  "countryToBeDelivered": "India"
 }
