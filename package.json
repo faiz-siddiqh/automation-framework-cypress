@@ -28,6 +28,7 @@
   },
   "devDependencies": {
     "chai": "^4.3.4",
+    "cypress-sql-server": "^1.0.0",
     "mochawesome": "^6.2.2"
   }
 }

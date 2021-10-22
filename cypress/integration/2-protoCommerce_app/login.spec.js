@@ -14,4 +14,12 @@ describe("SignUp as a new username into the website", () => {
     cy.visit(Cypress.env("baseUrl") + "angularpractice/");
     homepage.signUp();
   });
+
+  // it("check database connection", () => {
+  //   cy.sqlServer(`SELECT * FROM products`).then((results) => {
+  //     results.forEach((result) => {
+  //       console.log(result);
+  //     });
+  //   });
+  // });
 });

@@ -11,5 +11,15 @@
   "retries": {
     "runMode": 1,
     "openMode": 3
+  },
+  "db": {
+    "userName": "faizuser",
+    "password": "nothing123ok",
+    "server": "http://localhost:3306/",
+    "options": {
+      "database": "coffee_store",
+      "encrypt": true,
+      "rowCollectionOnRequestCompletion": true
+    }
   }
 }
