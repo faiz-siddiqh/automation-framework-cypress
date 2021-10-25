@@ -1,5 +1,5 @@
 {
-  "projectId": "p24cwo",
+  "projectId": "p24cw",
   "env": {
     "baseUrl": "https://rahulshettyacademy.com/"
   },
@@ -13,9 +13,9 @@
     "openMode": 3
   },
   "db": {
-    "userName": "faizuser",
-    "password": "nothing123ok",
-    "server": "http://localhost:3306/",
+    "userName": "",
+    "password": "",
+    "server": "",
     "options": {
       "database": "coffee_store",
       "encrypt": true,
