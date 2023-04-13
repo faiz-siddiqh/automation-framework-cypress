@@ -12,7 +12,7 @@
 // This function is called when a project is opened or re-opened (e.g. due to
 // the project's config changing)
 const sqlServer = require("cypress-sql-server");
-const dbConfig = require("../../cypress.json");
+const dbConfig = require("../../cypress.config.js");
 /**
  * @type {Cypress.PluginConfig}
  */

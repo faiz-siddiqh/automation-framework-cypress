@@ -11,7 +11,7 @@
     "test_app_dashboardwithrecord_report": "npm run test_app_dashboard&record --reporter mochawesome",
     "test_app_greenkart": "npm run test_app -- --spec \"cypress/integration/1-greenkart_app/*\" ",
     "test_app_protoCommerce": "npm run test_app -- --spec \"cypress/integration/2-protoCommerce_app/*\" ",
-    "test_integration": "npm run test_app -- --spec \"cypress/integration/3-Integration_Testing/*\" ",
+    "test_integration": "npm run test_app -- --spec \"cypress/integration/3-Integration_Testing/*\" "
 
   },
   "repository": {
